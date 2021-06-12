@@ -16,6 +16,8 @@
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+<img src="Resources/Theater_Outcomes_vs_Launch.png" alt="your alt text" width="600"/>
+
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
