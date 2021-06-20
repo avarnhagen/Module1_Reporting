@@ -66,7 +66,7 @@ The continuous data needs grouping to be utilized.  Excel's conditional function
 
 ## Results
 
-- What are conclusions you can draw about the Outcomes based on Launch Date?
+- **What are conclusions you can draw about the Outcomes based on Launch Date?**
 
 A mean of 70 successful theater KickStarter campaigns began in any given month.  The number of successes tended to peak in May (111), June (100) and July (87), with 67%, 65%, and 63% of all theater campaigns started in those months suceeding, respectively.   Likewise, May (33%), June (35%), and July (37%) were the least likely to yield either cancellation or failure by percentage.  With the p-value <0.05 (0.0495), t-test results suggest that theater campaigns begun in the summer are more likely to succeed (higher mean success rate) than those that are started in the fall, winter, or spring. That would imply that Louise's campaign, which began in June of 2016, was well-timed.
 
@@ -75,16 +75,16 @@ However, this trend of success for theater campaigns beginning in the summer mon
 
 An analysis of any market factors occuring in June 2016 that would explain the lower-than-typical success rate might be of use, in addition to an investigation into what  factors within Louise's control contributed to **_Fever's_** failure to launch.  If part of her campaign strategy was to reap the benefits of a more forgiving summertime campaign environment, she would have been very unlucky, as she was saddled with campaigning in the least forgiving month of any summer from 2010 to 2017.
 
-- What can you conclude about the Outcomes based on Goals?
+- **What can you conclude about the Outcomes based on Goals?**
 
 Play campaigns with fundraising goals of less than $1000 tended to succeed more than campaigns with higher fundraising goals, with a success rate of 76%.  Louise's campaign raised $2,485, indicating that her budget and capacity to fundraise mimicked that of the plays in the goal range with the second greatest frequency of success (73% success rate, range $1000 - $4,999).  With these indications that her capacity to raise funds was sufficient for her industry, it may be better to review other measurements for explanations for her campaign's failure, such as the number of donations, or average given per donor, which is explored in more detail below.
 
 
-- What are some limitations of this dataset?
+- **What are some limitations of this dataset?**
 
 Only 82 play KickStarters had campaign goals of at least $15,000, versus 961 total projects with goals of less than $15,000.  More data would be helpful to shed light on the success rate of campaigns with fundraising goals in the higher range.  While it might be possible to assess differences in means (ie, t-tests) between groups with lower or higher fundraising goals, the amount of data would be insufficient for such testing at the Category or Subcategory level. In addition, only 26 records of theater outcomes from 2010 - 2013 are included in the data, limiting the ability to use the data in a longitudinal scope to analyze KickStarter market trends over longer stretches of time (e.g., 5-yr, decades).
 
-- What are some other possible tables and/or graphs that we could create?
+- **What are some other possible tables and/or graphs that we could create?**
 
 Another explanation for **_Fever's_** failure is Louise's donation strategy.  Succesful play campaigns had a mean fundraising goal of $5,049, greater than her campaign's goal of $2,885. Successful campaigns made more money than Louise, but did so by accruing a higher volume of donors making contributions in smaller amounts.  **_Fever's_** 10 contributors donated an average of $249, while successful play fundraisers in a similar goal range ($4,999 or less) had a mean of 41 donors contributing $68 dollars per campaign.  
 
