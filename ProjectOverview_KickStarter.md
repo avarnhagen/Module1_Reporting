@@ -52,7 +52,7 @@ The count of successes are then divided by the count of outcomes for any given m
 
 
 ### Analysis of Outcomes Based on Goals
-Play KickStarter outcomes (success, failure, cancellation) are counted and filtered so that only play KickStarters are included (play being a _Subcategory_ of the theater _Category_, so measurements are not generalizeable to the sample included in the previous section, which included all _theater_ KickStarters), and these totals are sorted based on fundraising goals. Play KickStarter campaign outcomes as a function of campaign goals are summarized in a linechart to highlight possible trends of correlation.  Fundraising goals are grouped into ranges to identifical optimal fundraising goal strategies for play KickStarters.     
+Play KickStarter outcomes (success, failure, cancellation) are counted and filtered so that only play KickStarters are included (play being a _Subcategory_ of the theater _Category_, so measurements are not generalizeable to the sample included in the previous section, which included all _theater_ KickStarters), and these totals are sorted based on fundraising goals. Play KickStarter campaign outcomes as a function of campaign goals are summarized in a linechart to highlight possible trends of correlation.  Fundraising goals are grouped into ranges to identify optimal fundraising goal strategies for play KickStarters.     
 
 
 <img src="Resources/Outcomes_vs_Goals.png" alt="your alt text" width="1000"/>
