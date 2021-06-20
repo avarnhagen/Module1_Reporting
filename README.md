@@ -3,6 +3,7 @@
 ## Overview of Project
  The Vanderbilt University Data Analytics Bootcamp is a streamline of coursework that exposes students to a broad set of technical applications and data management concepts, strengthening their problem solving skills in data-driven contexts. Module 1 of the program focuses on Microsoft Excel, the use of statistical measures of spread, pivot tables, formulas, conditional formatting, and data visualization with charts, culminating with an analysis of a case study.
 
- 
-
+ - [KickStarter Campaign Analysis Datasheet](KickStarter_Challenge.xlsx)
+ - [Written Analysis](ProjectOverview_KickStarter.md)
+ - [Directory with images for reference](Resources)
 
