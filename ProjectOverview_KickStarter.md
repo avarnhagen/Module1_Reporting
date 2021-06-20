@@ -12,6 +12,8 @@ The dataset, held in a Microsoft Excel Workbook, detailed 4,114 campaigns taking
 <div style="text-align:center"><img src="Resources/DataTypes.png" alt="your alt text" width="250"/>
 <div style="text-align:left">
 
+[Resources/DataTypes.png](DataTypes)
+
 The mix of categorical and numerical data yields the opportunity to correlate campaign outcomes (success, failure, or cancellation) with both fundamental aspects of fundraising structure  (fundraising goal in dollars, total amount pledged, campaign start and end date, etc.) and more tangential characteristics (location of project by country, number of campaign contributors, average donation per contributor).  Comparisons across project type (theater, film/video, photography) and subtype (plays, musical, drama, documentary, television) lay the groundwork for inter-industry and intra-industry comparison of campaign fundraising patterns across varying timeframes.  
 
 The course framework advises pinpointing the analysis in ways that will help Louise most directly, as well as emphasizing the role **campaign launch date** had in campaign outcomes  as well as the role of **campaign funding goals**.
@@ -23,18 +25,31 @@ The pivot table below counts the number of theater campaign outcomes in any give
 Dividing the quantity of successful campaigns beginning in any given month by total number of outcomes (_Grand Total_, within the below pivot table) for campaigns beginning in that month yield a ratio relevant to analysis. It is then converted to a percentage - the percentage of campaigns beginning in that month that are successful.  
 
 <img src="Resources/PivotTable_TOBLD.png" alt="your alt text" width="300"/>
+
+[Resources/PivotTable_TOBLD.png](Link)
+
 <img src="Resources/Theater_Outcomes_vs_Launch.png" alt="your alt text" width="600"/>
+
+[Resources/Resources/Theater_Outcomes_vs_Launch.png](Link)
 
 The pivot table was also used to count campaign outcomes across all month and year combinations within the datset, allowing us to compare the KickStarter environment during the time frame of Louise's campaign with that of other time periods.  
 
 <img src="Resources/PIVOT_TOBLD_Y.png" alt="your alt text" width="300"/>
+
+[Resources/PIVOT_TOBLD_Y.png](Link)
 
 The count of successes are then divided by the count of outcomes for any given month, and given a percentage (ie., frequency of success for theaters campaigns given year/month of campign start date). A two sample t-test is performed to determine if the mean percentage of successful campaigns for theater products beginning in summer months (June, July, August) is greater than the mean rate of success for theater campaigns that begin in fall, winter, or spring.  An F test confirms that the two sample distributions are equal in variance, suggesting that a two sample t-Test Assuming Equal Variances is appropropriate (F<F Critical One Tail).  
 
 
 <img src="Resources/RateSuccess_Month_Year.png" alt="your alt text" width="400"/>
 
+[Resources/Resources/RateSuccess_Month_Year.png](LINK)
+
 <img src="Resources/F_TTests.png" alt="your alt text" width="400"/>
+
+[Resources/Resources/Resources/F_TTests.png](LINK)
+
+
 
 ### Analysis of Outcomes Based on Goals
 Play KickStarter outcomes (success, failure, cancellation) are counted and filtered so that only play KickStarters (play being a _Subcategory_ of the theater _Category_, so measurements are not generalizeable to the sample included in the previous section, which included all _theater_ KickStarters), and then sorted based on fundraising goals. Play KickStarter campaign outcomes as a function of campaign goals are summarized in a linechart to highlight possible trends of correlation.  Fundraising goals are grouped into ranges to identifical optimal fundraising goal strategies for play KickStarters.     
