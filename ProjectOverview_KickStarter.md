@@ -32,7 +32,7 @@ Dividing the quantity of successful campaigns beginning in any given month by to
 
 [Resources/Resources/Theater_Outcomes_vs_Launch.png](Link)
 
-The pivot table was also used to count campaign outcomes across all month and year combinations within the datset, allowing us to compare the KickStarter environment during the time frame of Louise's campaign with that of other time periods.  
+The pivot table was also used to count campaign outcomes across all month and year combinations within the datset, allowing us to compare the theater KickStarter success during the time frame of Louise's campaign with that of other time periods.  
 
 <img src="Resources/PIVOT_TOBLD_Y.png" alt="your alt text" width="300"/>
 
