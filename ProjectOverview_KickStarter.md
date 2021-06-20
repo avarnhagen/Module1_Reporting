@@ -32,13 +32,13 @@ Dividing the quantity of successful campaigns beginning in any given month by to
 
 [Resources/Resources/Theater_Outcomes_vs_Launch.png](Link)
 
-The pivot table was also used to count campaign outcomes across all month and year combinations within the datset, allowing us to compare the theater KickStarter success during the time frame of Louise's campaign with that of other time periods.  
+The pivot table was also used to count campaign outcomes across all month and year combinations within the datset, allowing us to compare theater KickStarter success during the time frame of Louise's campaign with that of other time periods.  
 
 <img src="Resources/PIVOT_TOBLD_Y.png" alt="your alt text" width="300"/>
 
 [Resources/PIVOT_TOBLD_Y.png](Link)
 
-The count of successes are then divided by the count of outcomes for any given month, and given a percentage (ie., frequency of success for theaters campaigns given year/month of campign start date). A two sample t-test is performed to determine if the mean percentage of successful campaigns for theater products beginning in summer months (June, July, August) is greater than the mean rate of success for theater campaigns that begin in fall, winter, or spring.  An F test confirms that the two sample distributions are equal in variance, suggesting that a two sample t-Test Assuming Equal Variances is appropropriate (F<F Critical One Tail).  
+The count of successes are then divided by the count of outcomes for any given month, and given a percentage (ie., frequency of success for theaters campaigns given year/month of campign start date). A two sample t-test is performed to determine if the mean percentage of successful campaigns for theater projects beginning in summer months (June, July, August) is greater than the mean rate of success for theater campaigns that begin in fall, winter, or spring.  An F test confirms that the two sample distributions are equal in variance, suggesting that a two sample t-Test Assuming Equal Variances is appropropriate (F<F Critical One Tail).  
 
 
 <img src="Resources/RateSuccess_Month_Year.png" alt="your alt text" width="400"/>
